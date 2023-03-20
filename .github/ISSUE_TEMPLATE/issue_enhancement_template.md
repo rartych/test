@@ -1,5 +1,5 @@
 ---
-name: :question: Enhancement
+name:  Enhancement
 about: Suggest an idea for a new API feature or pose a question on directions for evolution
 title: ''
 labels: 'enhancement'
